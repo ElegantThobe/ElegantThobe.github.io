@@ -90,18 +90,18 @@ nav img {
     color: #fff;
 }
 
-.ladies h1{
+.Ladies h1{
     text-align: center;
 }
 
-.men {
+.Gentlemen {
     width: 80%;
     margin: auto;
     text-align: center;
     padding-top: 100px;
 }
 
-.men h1{
+.Gentlemen h1{
 
     font-family: Snell Roundhand;
     font-size: 50px;
@@ -129,14 +129,14 @@ nav img {
 /* .img-column:hover {
     box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.2);
 } */
-.women {
+.Ladies {
     width: 80%;
     margin: auto;
     text-align: center;
     padding-top: 100px;
 }
 
-.women h1{
+.Ladies h1{
 
     font-family: Snell Roundhand;
     font-size: 50px;
