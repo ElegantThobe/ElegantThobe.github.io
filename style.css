@@ -120,8 +120,8 @@ nav img {
     box-sizing: border-box;
     transition: 0.5s; */
     display: flex;
-    height: 245px;
-    width: 161px;
+    height: 750px;
+    width: 750px;
     object-fit: cover;
     
 }
