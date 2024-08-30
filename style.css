@@ -114,18 +114,21 @@ nav img {
 .img-column {
     /* flex-basis: 31%; */
     /* background: #fff3f3; */
-    border-radius: 10px;
+/*     border-radius: 10px;
     margin-bottom: 5%;
     padding: 20px 12px;
     box-sizing: border-box;
-    transition: 0.5s;
+    transition: 0.5s; */
     display: flex;
+    height: 245px;
+    width: 161px;
+    object-fit: cover;
     
 }
 
-.img-column:hover {
+/* .img-column:hover {
     box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.2);
-}
+} */
 .women {
     width: 80%;
     margin: auto;
