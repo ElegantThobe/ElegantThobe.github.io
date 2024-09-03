@@ -38,13 +38,15 @@ nav img {
 
 .logo-container {
     position: absolute;
+    top: 25%;
     left: 40%;
 }
 
 .logo {
-    max-width: 150px;
-    height: auto;
+    width: 500px;
+/*     height: auto; */
     background: transparent;
+    object-fit: fill;
 }
 
 .nav-links ul li a {
@@ -71,7 +73,7 @@ nav img {
     width: 90%;
     color: #fff;
     position: absolute;
-    top: 50%;
+    top: 80%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
